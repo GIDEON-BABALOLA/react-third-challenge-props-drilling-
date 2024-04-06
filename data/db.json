@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Uber Engineering",
+      "datetime": "April 04, 2024 8:52:43 PM",
+      "body": "Working as a software Engineer is an amazing experience"
+    },
+    {
+      "id": 2,
+      "title": "Golang",
+      "datetime": "April 06, 2024 9:35:15 PM",
+      "body": "Golang is a great Programming Language"
+    }
+  ]
+}
