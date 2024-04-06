@@ -8,6 +8,9 @@ editTitle,
 handleEdit,
 setEditTitle,
 setEditBody
+
+
+
 }) => {
   const [visibility, setVisibility] = useState(true)
     const { id } = useParams()
